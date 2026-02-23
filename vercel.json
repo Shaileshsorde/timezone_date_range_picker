@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npx storybook build --config-dir .storybook --output-dir storybook-static",
+  "outputDirectory": "storybook-static",
+  "installCommand": "npm install --legacy-peer-deps",
+  "framework": null
+}
